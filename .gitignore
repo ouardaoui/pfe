@@ -10,7 +10,7 @@ npm-debug.*
 web-build/
 
 
-presentation.pdf
+.presentation.pdf
 
 # macOS
 .DS_Store
